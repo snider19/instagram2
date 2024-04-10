@@ -13,7 +13,7 @@ body {
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    height: 650px;
+    height: 670px;
     text-align: center;
 }
 
@@ -120,9 +120,16 @@ input[type="email"] {
     margin-top: 20px;
 }
 
-
-
-
+.imagenes{
+    display: flex;
+    align-items: center;
+}
+.item1{
+    width: 500px;
+}
+.item2{
+    width: 500px;
+}
 .login-link a {
     color: #007bff;
     text-decoration: none;
@@ -147,19 +154,16 @@ body {
     body{
         background-color: rgb(49, 81, 94);
 
-        
+    }
+    }
    @media only screen and (max-width:300px){
-    body{
-        background-color: rgb(20, 76, 100);
-    }
-}
-
+        body{
+            background-color: rgb(20, 76, 100);
+        }
     @media only screen and (max-width:300px){
-    body{
-        background-color: rgb(33, 51, 60);
+        body{
+            background-color: rgb(33, 51, 60);
 
+        }
     }
-}
-
-
-
+   }
