@@ -123,12 +123,13 @@ input[type="email"] {
 .imagenes{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 .item1{
-    width: 250px;
+    width: 200px;
 }
 .item2{
-    width: 250px;
+    width: 200px;
 }
 .login-link a {
     color: #007bff;
