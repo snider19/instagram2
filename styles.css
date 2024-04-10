@@ -7,7 +7,7 @@ body {
 
 
 .container {
-    max-width: 400px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 40px 60px;
     background-color: #fff;
@@ -125,10 +125,10 @@ input[type="email"] {
     align-items: center;
 }
 .item1{
-    width: 500px;
+    width: 250px;
 }
 .item2{
-    width: 500px;
+    width: 250px;
 }
 .login-link a {
     color: #007bff;
